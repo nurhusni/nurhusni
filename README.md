@@ -1,10 +1,10 @@
 <h1 align="center" font-weight"bold">Panji Ahmad Nurhusni</h1>
-<h3 align="center">A hype-driven Developer</h3>
+<h3 align="center">A Hype-driven Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=panjiahnh&label=Profile%20views&color=0e75b6&style=flat" alt="panjiahnh" /> </p>
 
 
-<p align="center"> <a href="https://twitter.com/mugenvision" target="blank"><img src="https://img.shields.io/twitter/follow/mugenvision?logo=twitter&style=for-the-badge" alt="mugenvision" /></a> </p>
+<p align="center"> <a href="https://twitter.com/paperhanded" target="blank"><img src="https://img.shields.io/twitter/follow/mugenvision?logo=twitter&style=for-the-badge" alt="paperhanded" /></a> </p>
 
 - 🔭 I’m currently working on [Upself Mobile](upself.id)
 
