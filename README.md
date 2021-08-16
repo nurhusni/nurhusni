@@ -6,7 +6,7 @@
 
 - 🔭 I worked on [Upself Mobile](https://github.com/Upself-ID/upself-mobile)
 
-- 🌱 I’m currently focusing on learning **NestJS, TypeScript, VueJS**
+- 🌱 I’m currently focused on learning **NestJS, TypeScript, VueJS**
 
 - 📫 Reach me on **apanji6399@gmail.com**
 
