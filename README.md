@@ -12,9 +12,9 @@
 
 <h3 align="center">How to reach me out</h3>
 <p align="center">
-    <a href="https://twitter.com/thenurhusni" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="thenurhusni" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/panjiahmadn" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="panjiahmadn" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/arahpanah" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="arahpanah" height="30" width="40" /></a>
+    <a href="https://twitter.com/thenurhusni" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="thenurhusni" height="40" width="40" /></a>
+    <a href="https://linkedin.com/in/panjiahmadn" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="panjiahmadn" height="40" width="40" /></a>
+    <a href="https://stackoverflow.com/users/arahpanah" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="arahpanah" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
