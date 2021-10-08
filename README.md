@@ -12,19 +12,19 @@
 
 <h3 align="center">How to reach me out</h3>
 <p align="center">
-    <a href="https://twitter.com/thenurhusni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thenurhusni" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/panjiahmadn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="panjiahmadn" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/arahpanah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="arahpanah" height="30" width="40" /></a>
+    <a href="https://twitter.com/thenurhusni" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="thenurhusni" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/panjiahmadn" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="panjiahmadn" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/arahpanah" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="arahpanah" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+    <a href="https://www.java.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java" width="40" height="40"/> </a> 
+    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" width="40" height="40"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="40" height="40"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react" width="40" height="40"/> </a> 
+    <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="reactnative" width="40" height="40"/> </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="40" height="40"/> </a>
     <a href="https://webpack.js.org" target="_blank">
 
 <p align="center">&nbsp;
@@ -36,5 +36,5 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurhusni&theme=react" alt="nurhusni" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurhusni&theme=react&hide_border=true" alt="nurhusni" />
 </p>
