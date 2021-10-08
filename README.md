@@ -28,13 +28,13 @@
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhusni&show_icons=true&locale=en&include_all_commits=true&theme=react&hide_border=true" alt="nurhusni" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhusni&show_icons=true&locale=en&include_all_commits=true&theme=onedark&hide_border=true" alt="nurhusni" />
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhusni&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="nurhusni" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhusni&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="nurhusni" />
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurhusni&theme=react&hide_border=true" alt="nurhusni" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurhusni&theme=onedark&hide_border=true" alt="nurhusni" />
 </p>
