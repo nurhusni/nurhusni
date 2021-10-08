@@ -27,14 +27,15 @@
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="40" height="40"/> </a>
     <!-- <a href="https://webpack.js.org" target="_blank"> -->
 
-<!-- <p align="center">&nbsp; -->
+<p align="center">
+<!-- &nbsp; -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhusni&show_icons=true&locale=en&include_all_commits=true&theme=react&hide_border=true" alt="nurhusni" />
-<!-- </p> -->
+</p>
 
-<!-- <p align="center"> -->
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhusni&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="nurhusni" />
-<!-- </p> -->
+</p>
 
-<!-- <p align="center"> -->
+<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurhusni&theme=react&hide_border=true" alt="nurhusni" />
 </p>
