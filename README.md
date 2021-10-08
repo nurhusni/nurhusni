@@ -25,17 +25,16 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react" width="40" height="40"/> </a> 
     <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="reactnative" width="40" height="40"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="40" height="40"/> </a>
-    <!-- <a href="https://webpack.js.org" target="_blank"> -->
-
-<p align="center">
-<!-- &nbsp; -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhusni&show_icons=true&locale=en&include_all_commits=true&theme=react&hide_border=true" alt="nurhusni" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhusni&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="nurhusni" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhusni&show_icons=true&locale=en&include_all_commits=true&theme=react&hide_border=true" alt="nurhusni" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurhusni&theme=react&hide_border=true" alt="nurhusni" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhusni&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="nurhusni" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurhusni&theme=react&hide_border=true" alt="nurhusni" />
 </p>
