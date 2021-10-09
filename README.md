@@ -4,9 +4,9 @@
 
 <p align="center"> <a href="https://twitter.com/thenurhusni" target="blank"><img src="https://img.shields.io/twitter/follow/thenurhusni?logo=twitter&style=for-the-badge" alt="thenurhusni" /></a> </p>
 
-- 🔭 I worked on [Upself Mobile](https://github.com/Upself-ID/upself-mobile)
+- 🔭 I worked on **[Upself Mobile](https://github.com/Upself-ID/upself-mobile)**
 
-- 🌱 I’m currently focused on learning **TypeScript, Java, Spring**
+- 🌱 I’m currently focused on learning **Java** and **Spring** stack for **web development**
 
 - 📫 Reach me on **apanji6399@gmail.com**
 
