@@ -28,11 +28,11 @@
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhusni&show_icons=true&locale=en&include_all_commits=true&theme=onedark&hide_border=true" alt="nurhusni" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhusni&show_icons=true&locale=en&include_all_commits=true&theme=onedark&hide_border=true&count_private=true" alt="nurhusni" />
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhusni&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="nurhusni" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhusni&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true&langs_count=8" alt="nurhusni" />
 </p>
 
 <p align="center">
