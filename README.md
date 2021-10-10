@@ -8,18 +8,21 @@
 
 - 🌱 I’m currently working on learning **Java** and **Spring** stack for **web development**
 
-<h3 align="center">Keep In Touch</h3>
+<h2 align="center">Keep In Touch</h2>
 <p align="center">
+    <!-- Twitter -->
     <a href="https://twitter.com/thenurhusni" target="blank"><img src="https://img.shields.io/twitter/follow/thenurhusni?logo=twitter&style=for-the-badge" alt="thenurhusni" /></a> 
     </br>
+    <!-- Email and Social Media -->
     <a href="mailto:apanji6399@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/panjiahmadn/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://t.me/thenurhusni"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     </br>
+    <!-- Coding Platform -->
     <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforces">
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+<h2 align="center">Languages and Tools</h2>
 <p align="center"> 
     <!-- Programming Languages -->
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
