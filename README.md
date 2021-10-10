@@ -2,8 +2,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nurhusni&style=flat&label=Profile+Views" alt="nurhusni" /> </p>
 
-<p align="center"> <a href="https://twitter.com/thenurhusni" target="blank"><img src="https://img.shields.io/twitter/follow/thenurhusni?logo=twitter&style=for-the-badge" alt="thenurhusni" /></a> </p>
-
 - 🔭 I worked on **[Upself Mobile](https://github.com/Upself-ID/upself-mobile)**
 
 - 🌱 I’m currently focused on learning **Java** and **Spring** stack for **web development**
@@ -12,9 +10,11 @@
 
 <h3 align="center">Keep In Touch</h3>
 <p align="center">
-    <a href="https://linkedin.com/in/panjiahmadn" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="panjiahmadn" height="40" width="40" /></a>
-    <a href="https://stackoverflow.com/users/8073417/arahpanah" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/stackoverflow.png" alt="arahpanah" height="40" width="40" /></a>
-    <a href="https://twitter.com/thenurhusni" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="thenurhusni" height="40" width="40" /></a>
+    <a href="https://twitter.com/thenurhusni" target="blank"><img src="https://img.shields.io/twitter/follow/thenurhusni?logo=twitter&style=for-the-badge" alt="thenurhusni" /></a>
+
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panjiahmadn)
+    [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thenurhusni)
+
 </p>
 
 <h3 align="center">Languages and Tools</h3>
