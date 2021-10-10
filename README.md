@@ -2,11 +2,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nurhusni&style=flat&label=Profile+Views" alt="nurhusni" /> </p>
 
-- 🎓 I'm an undergraduate **physics** student
+- 🎓 I'm an undergraduate **physics** student who's interested in software engineering
 
 - 🔭 I worked on **[Upself Mobile](https://github.com/Upself-ID/upself-mobile)**
 
-- 🌱 I’m currently working on learning **Java** and **Spring** stack for **web development**
+- 🌱 I’m currently learning **Java** and **Spring** stack for **web development**
 
 <h3 align="center">Keep In Touch</h3>
 <p align="center">
