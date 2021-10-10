@@ -18,8 +18,6 @@
     <a href="https://www.linkedin.com/in/panjiahmadn/"><img src="https://img.shields.io/badge/Panji Ahmad Nurhusni-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://t.me/thenurhusni"><img src="https://img.shields.io/badge/thenurhusni-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     </br>
-    <!-- Coding Platform -->
-    <img src="https://img.shields.io/badge/thepointyraindrop-445F9D?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforces">
 </p>
 
 <h3 align="center">Languages and Tools</h3>
