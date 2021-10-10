@@ -41,13 +41,17 @@
 </br>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhusni&show_icons=true&locale=en&include_all_commits=true&theme=onedark&hide_border=true&count_private=true" alt="nurhusni" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhusni&show_icons=true&locale=en&include_all_commits=true&theme=onedark&hide_border=true&count_private=true" alt="nurhusni's github stats" />
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhusni&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true&langs_count=10&hide=html,css" alt="nurhusni" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhusni&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true&langs_count=10&hide=html,css" alt="nurhusni's most used languages" />
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurhusni&theme=onedark&hide_border=true" alt="nurhusni" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurhusni&theme=onedark&hide_border=true" alt="nurhusni's streak" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=remainHustling&layout=compact&theme=onedark&hide_border=true" alt="nurhusni's wakatime stats">
 </p>
