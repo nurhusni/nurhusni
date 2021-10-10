@@ -11,9 +11,9 @@
 <h3 align="center">Keep In Touch</h3>
 <p align="center">
     <a href="https://twitter.com/thenurhusni" target="blank"><img src="https://img.shields.io/twitter/follow/thenurhusni?logo=twitter&style=for-the-badge" alt="thenurhusni" /></a>
-/
+</br>
     <a href="https://www.linkedin.com/in/panjiahmadn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-/
+</br>
     <a href="https://instagram.com/panjiahn"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </p>
