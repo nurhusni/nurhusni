@@ -6,7 +6,7 @@
 
 - 🔭 I worked on **[Upself Mobile](https://github.com/Upself-ID/upself-mobile)**
 
-- 🌱 I’m currently learning **Java** and **Spring** stack for **web development**
+- 🌱 I’m currently working on learning **Java** and **Spring** stack for **web development**
 
 <h3 align="center">Keep In Touch</h3>
 <p align="center">
@@ -21,7 +21,7 @@
 <p align="center"> 
     <!-- Programming Languages -->
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
+    <!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/> -->
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
@@ -29,12 +29,8 @@
     <!-- Frameworks -->
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs"/>
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-native"/>
-    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="spring-boot">
+    <!-- <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="spring-boot"> -->
     </br>
-    <!-- Database -->
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
-    <!-- Others -->
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino">
 </p>
 
 </br>
