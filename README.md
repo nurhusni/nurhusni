@@ -2,15 +2,16 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nurhusni&style=flat&label=Profile+Views" alt="nurhusni" /> </p>
 
+- 🎓 I'm an underraduate physics student
+
 - 🔭 I worked on **[Upself Mobile](https://github.com/Upself-ID/upself-mobile)**
 
-- 🌱 I’m currently focused on learning **Java** and **Spring** stack for **web development**
-
-- 📫 Reach me on **apanji6399@gmail.com**
+- 🌱 I’m currently learning **Java** and **Spring** stack for **web development**
 
 <h3 align="center">Keep In Touch</h3>
 <p align="center">
     <a href="https://twitter.com/thenurhusni" target="blank"><img src="https://img.shields.io/twitter/follow/thenurhusni?logo=twitter&style=for-the-badge" alt="thenurhusni" /></a> </br>
+    <a href="mailto:apanji6399@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/panjiahmadn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://t.me/thenurhusni"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
