@@ -29,6 +29,8 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
     </br>
     <!-- Frameworks -->
+    <img sec="https://img.shields.io/badge/AdonisJS-5E4AFF?style=for-the-badge&logo=adonisjs&logoColor=white" alt="adonisjs">
+    <img sec="https://img.shields.io/badge/NestJS-EC3A55?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs">
     <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs"/>
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-native"/>
     <!-- <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="spring-boot"> -->
