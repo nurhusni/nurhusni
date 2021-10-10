@@ -22,11 +22,11 @@
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
     <!-- Programming Languages -->
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp">
+    <img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp">
     <!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/> -->
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+    <img src="https://img.shields.io/badge/-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
+    <img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+    <img src="https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
     </br>
     <!-- Frameworks -->
     <img sec="https://img.shields.io/badge/-AdonisJS-220052?style=for-the-badge&logo=adonis&logoColor=white" alt="adonisjs">
