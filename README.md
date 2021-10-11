@@ -63,5 +63,5 @@
 </p>
 
 <p align="center"> 
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nurhusni&theme=one-dark" alt="activity graph">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nurhusni&theme=one-dark&hide_border=true" alt="activity graph">
 </p>
