@@ -11,7 +11,7 @@
 </p> -->
 
 - 🎓 I'm an undergraduate **physics** student who's interested in **software engineering**
-- 🔭 I worked on **[Upself Mobile](https://github.com/Upself-ID/upself-mobile)**
+- 🔭 I worked on **[Upself Mobile](https://github.com/Upself-ID/upself-mobile)** using **TypeScript** and **React Native**
 - 🌱 I’m learning **Java** and **Spring** stack for **web development**
 
 <h3 align="center">Keep In Touch</h3>
@@ -33,7 +33,6 @@
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     </br>
     <!-- Frameworks -->
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
