@@ -1,4 +1,4 @@
-<h1 align="center" font-weight"bold">Panji Ahmad Nurhusni</h1>
+<h1 align="center" font-weight="bold">Panji Ahmad Nurhusni</h1>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=nurhusni&style=flat&label=Profile+Views" alt="nurhusni" /> 
@@ -36,32 +36,33 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     </br>
     <!-- Frameworks -->
-    <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
     <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
     <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
     </br>
-    <!-- Others -->
+    <!-- Database -->
+    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
 </br>
 
+<!-- Stats -->
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhusni&show_icons=true&locale=en&include_all_commits=true&theme=onedark&hide_border=true&count_private=true" alt="nurhusni's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhusni&show_icons=true&locale=en&include_all_commits=true&theme=onedark&hide_border=true&count_private=true" alt="github stats" />
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhusni&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true&langs_count=10&hide=html,css&card_width=495" alt="nurhusni's most used languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhusni&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true&langs_count=10&hide=html,css&card_width=495" alt="most used languages" />
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurhusni&theme=onedark&hide_border=true" alt="nurhusni's streak" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurhusni&theme=onedark&hide_border=true" alt="github streaks" />
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=remainHustling&layout=compact&theme=onedark&hide_border=true" alt="nurhusni's wakatime stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=remainHustling&layout=compact&theme=onedark&hide_border=true" alt="wakatime stats">
 </p>
 
 <p align="center"> 
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nurhusni&theme=one-dark" alt="nurhusni's activity graph">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nurhusni&theme=one-dark" alt="activity graph">
 </p>
