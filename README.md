@@ -1,12 +1,18 @@
 <h1 align="center" font-weight"bold">Panji Ahmad Nurhusni</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nurhusni&style=flat&label=Profile+Views" alt="nurhusni" /> </p>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=nurhusni&style=flat&label=Profile+Views" alt="nurhusni" /> 
+</p>
 
-- 🎓 I'm an undergraduate **physics** student who's interested in software engineering
+<!-- <p align="center">
+    <strong>
+        Hi 🖖. I'm Panji, a self-taught developer who's about to start a career in web development.
+    </strong>
+</p> -->
 
+- 🎓 I'm an undergraduate **physics** student who's interested in **software engineering**
 - 🔭 I worked on **[Upself Mobile](https://github.com/Upself-ID/upself-mobile)**
-
-- 🌱 I’m currently learning **Java** and **Spring** stack for **web development**
+- 🌱 I’m learning **Java** and **Spring** stack for **web development**
 
 <h3 align="center">Keep In Touch</h3>
 <p align="center">
@@ -45,7 +51,7 @@
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhusni&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true&langs_count=10&hide=html,css" alt="nurhusni's most used languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhusni&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true&langs_count=10&hide=html,css" alt="nurhusni's most used languages" width="495px" />
 </p>
 
 <p align="center">
@@ -54,4 +60,8 @@
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=remainHustling&layout=compact&theme=onedark&hide_border=true" alt="nurhusni's wakatime stats">
+</p>
+
+<p align="center"> 
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nurhusni&theme=one-dark" alt="nurhusni's activity graph">
 </p>
