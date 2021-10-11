@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhusni&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true&langs_count=10&hide=html,css&card_width=495" alt="most used languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhusni&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true&langs_count=10&hide=html,css" alt="most used languages" />
 </p>
 
 <p align="center">
