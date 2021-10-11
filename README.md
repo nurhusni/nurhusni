@@ -48,7 +48,7 @@
     <!-- Hardware and OS -->
     <img src="https://img.shields.io/badge/ThinkPad-%23EE2624.svg?style=for-the-badge&logo=thinkpad&logoColor=white" alt="ThinkPad">
     <img src="https://img.shields.io/badge/Intel i5-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white" alt="Intel i5">
-    <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+    <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10">
     </br>
     <!-- IDEs and Editors -->
     <img src="https://img.shields.io/badge/Intellij IDEA-%23000.svg?style=for-the-badge&logo=intellij%20idea&logoColor=white" alt="Intellij IDEA">
