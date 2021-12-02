@@ -12,7 +12,7 @@
 
 - 🎓 I'm an undergraduate **physics** student who's interested in **software engineering**
 - 🔭 Worked on **[Upself Mobile](https://github.com/Upself-ID/upself-mobile)** using **TypeScript** and **React Native**
-- 🌱 Currently learning **Java** and **Spring** stack for **web development**
+- 🌱 Currently learning **React** and **NestJS** stack for **web development**
 
 <h3 align="center">Keep In Touch</h3>
 <p align="center">
@@ -37,7 +37,7 @@
     <!-- Frameworks -->
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
     <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-    <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+    <!-- <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"> -->
     </br>
     <!-- Database -->
     <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -77,3 +77,8 @@
 <p align="center"> 
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nurhusni&theme=one-dark&hide_border=true" alt="activity graph">
 </p>
+
+<!--
+    Icons are from simpleicons.org
+    Badges are from shields.io
+ -->
