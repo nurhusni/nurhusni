@@ -20,7 +20,7 @@
     <a href="https://twitter.com/thenurhusni" target="blank"><img src="https://img.shields.io/twitter/follow/thenurhusni?logo=twitter&style=for-the-badge" alt="thenurhusni" /></a> 
     </br>
     <!-- Email and Social Media -->
-    <a href="mailto:apanji6399@gmail.com"><img src="https://img.shields.io/badge/apanji6399@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:panjinurhusni@gmail.com"><img src="https://img.shields.io/badge/panjinurhusni@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/panjiahmadn/"><img src="https://img.shields.io/badge/Panji Ahmad Nurhusni-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://t.me/thenurhusni"><img src="https://img.shields.io/badge/thenurhusni-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     </br>
