@@ -1,7 +1,7 @@
 <h1 align="center" font-weight="bold">Panji Ahmad Nurhusni</h1>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=nurhusni&style=flat&label=Profile+Views" alt="nurhusni" /> 
+    <img src="https://komarev.com/ghpvc/?username=newjsframework&style=flat&label=Profile+Views" alt="newjsframework" /> 
 </p>
 
 <!-- <p align="center">
@@ -17,7 +17,7 @@
 <h3 align="center">Keep In Touch</h3>
 <p align="center">
     <!-- Twitter -->
-    <a href="https://twitter.com/thenurhusni" target="blank"><img src="https://img.shields.io/twitter/follow/thenurhusni?logo=twitter&style=for-the-badge" alt="thenurhusni" /></a> 
+    <a href="https://twitter.com/newjsframework" target="blank"><img src="https://img.shields.io/twitter/follow/thenurhusni?logo=twitter&style=for-the-badge" alt="thenurhusni" /></a> 
     </br>
     <!-- Email and Social Media -->
     <a href="mailto:panjinurhusni@gmail.com"><img src="https://img.shields.io/badge/panjinurhusni@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -29,7 +29,6 @@
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
     <!-- Programming Languages -->
-    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -51,7 +50,7 @@
     <img src="https://img.shields.io/badge/Windows 10-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10">
     </br>
     <!-- IDEs and Editors -->
-    <img src="https://img.shields.io/badge/Intellij IDEA-%23000.svg?style=for-the-badge&logo=intellij%20idea&logoColor=white" alt="Intellij IDEA">
+    <!-- <img src="https://img.shields.io/badge/Intellij IDEA-%23000.svg?style=for-the-badge&logo=intellij%20idea&logoColor=white" alt="Intellij IDEA"> -->
     <img src="https://img.shields.io/badge/VS Code-%23007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
 </p>
 
