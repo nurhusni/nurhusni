@@ -1,7 +1,7 @@
 <h1 align="center" font-weight="bold">Panji Ahmad Nurhusni</h1>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=newjsframework&style=flat&label=Profile+Views" alt="newjsframework" /> 
+    <img src="https://komarev.com/ghpvc/?username=nurhusni&style=flat&label=Profile+Views" alt="nurhusni" /> 
 </p>
 
 <!-- <p align="center">
@@ -17,7 +17,7 @@
 <h3 align="center">Keep In Touch</h3>
 <p align="center">
     <!-- Twitter -->
-    <a href="https://twitter.com/newjsframework" target="blank"><img src="https://img.shields.io/twitter/follow/thenurhusni?logo=twitter&style=for-the-badge" alt="thenurhusni" /></a> 
+    <a href="https://twitter.com/newjsframework" target="blank"><img src="https://img.shields.io/twitter/follow/newjsframework?logo=twitter&style=for-the-badge" alt="newjsframework" /></a> 
     </br>
     <!-- Email and Social Media -->
     <a href="mailto:panjinurhusni@gmail.com"><img src="https://img.shields.io/badge/panjinurhusni@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
