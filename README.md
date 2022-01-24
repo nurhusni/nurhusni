@@ -12,7 +12,7 @@
 
 - 🎓 I'm an undergraduate **physics** student who's interested in **software engineering**
 - 🔭 Worked on **[Upself Mobile](https://github.com/Upself-ID/upself-mobile)** using **TypeScript** and **React Native**
-- 🌱 Currently learning **React** and **NestJS** stack for **web development**
+- 🌱 Currently learning **React** and **Go** stack for **web development**
 
 <h3 align="center">Keep In Touch</h3>
 <p align="center">
@@ -29,7 +29,8 @@
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
     <!-- Programming Languages -->
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+    <!-- <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> -->
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     </br>
