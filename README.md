@@ -6,7 +6,7 @@
 
 <p align="center">
     <strong>
-        Hi 👋. I'm Panji. I'm a back-end engineer.
+        Hi 👋, I'm Panji. I'm a back-end engineer.
 </p>
 
 - 🎓 I'm a **physics** graduate who's interested in **software engineering**
