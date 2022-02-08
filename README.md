@@ -4,13 +4,12 @@
     <img src="https://komarev.com/ghpvc/?username=nurhusni&style=flat&label=Profile+Views" alt="nurhusni" /> 
 </p>
 
-<!-- <p align="center">
+<p align="center">
     <strong>
-        Hi 👋. I'm Panji, a self-taught developer who's about to start a career in web development.
-    </strong>
-</p> -->
+        Hi 👋. I'm Panji. I'm a back-end engineer.
+</p>
 
-- 🎓 I'm an undergraduate **physics** student who's interested in **software engineering**
+- 🎓 I'm a **physics** graduate who's interested in **software engineering**
 - 🔭 Worked on **[Upself Mobile](https://github.com/Upself-ID/upself-mobile)** using **TypeScript** and **React Native**
 - 🌱 Currently learning **React** and **Go** stack for **web development**
 
