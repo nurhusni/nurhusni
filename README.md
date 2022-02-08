@@ -43,18 +43,6 @@
     <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-<!-- <h3 align="center">Development Setup</h3> -->
-<!-- <p align="center"> -->
-    <!-- Hardware and OS -->
-    <!-- <img src="https://img.shields.io/badge/ThinkPad-%23EE2624.svg?style=for-the-badge&logo=thinkpad&logoColor=white" alt="ThinkPad"> -->
-    <!-- <img src="https://img.shields.io/badge/Intel i5-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white" alt="Intel i5"> -->
-    <!-- <img src="https://img.shields.io/badge/Windows 10-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10"> -->
-    <!-- </br> -->
-    <!-- IDEs and Editors -->
-    <!-- <img src="https://img.shields.io/badge/Intellij IDEA-%23000.svg?style=for-the-badge&logo=intellij%20idea&logoColor=white" alt="Intellij IDEA"> -->
-    <!-- <img src="https://img.shields.io/badge/VS Code-%23007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"> -->
-<!-- </p> -->
-
 </br>
 
 <!-- Stats -->
