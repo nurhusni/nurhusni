@@ -25,7 +25,7 @@
     </br>
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Tech Stacks</h3>
 <p align="center"> 
     <!-- Programming Languages -->
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
