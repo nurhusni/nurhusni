@@ -10,7 +10,7 @@
 </p>
 
 - 🎓 I'm a **physics** graduate who's interested in **software engineering**
-- 🔭 Worked on **[Upself Mobile](https://github.com/Upself-ID/upself-mobile)** using **TypeScript** and **React Native**
+<!-- - 🔭 Worked on **[Upself Mobile](https://github.com/Upself-ID/upself-mobile)** using **TypeScript** and **React Native** -->
 - 🌱 Currently learning **Go** for **web development**
 
 <h3 align="center">Keep In Touch</h3>
