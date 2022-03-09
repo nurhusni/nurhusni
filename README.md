@@ -11,12 +11,12 @@
 
 - 🎓 I'm a **physics** graduate who's interested in **software engineering**
 - 🔭 Worked on **[Upself Mobile](https://github.com/Upself-ID/upself-mobile)** using **TypeScript** and **React Native**
-- 🌱 Currently learning **React** and **Go** stack for **web development**
+- 🌱 Currently learning **Go** for **web development**
 
 <h3 align="center">Keep In Touch</h3>
 <p align="center">
     <!-- Twitter -->
-    <a href="https://twitter.com/newjsframework" target="blank"><img src="https://img.shields.io/twitter/follow/newjsframework?logo=twitter&style=for-the-badge" alt="newjsframework" /></a> 
+    <a href="https://twitter.com/thenurhusni" target="blank"><img src="https://img.shields.io/twitter/follow/thenurhusni?logo=twitter&style=for-the-badge" alt="thenurhusni" /></a> 
     </br>
     <!-- Email and Social Media -->
     <a href="mailto:panjinurhusni@gmail.com"><img src="https://img.shields.io/badge/panjinurhusni@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -39,7 +39,7 @@
     <!-- <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"> -->
     </br>
     <!-- Database -->
-    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/PostgreSQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="PostgreSQL">
 </p>
 
 </br>
