@@ -6,11 +6,12 @@
 
 <p align="center">
     <strong>
-        Hi 👋, I'm Panji. I'm a back-end engineer.
+        Hi 👋, I'm Panji.
 </p>
 
 - 🎓 I'm a **physics** graduate who's interested in **software engineering**
 <!-- - 🔭 Worked on **[Upself Mobile](https://github.com/Upself-ID/upself-mobile)** using **TypeScript** and **React Native** -->
+- 🏢 Work at a fintech company as a **back-end engineer**
 - 🌱 Currently learning **Go** for **web development**
 
 <h3 align="center">Keep In Touch</h3>
