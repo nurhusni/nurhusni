@@ -16,12 +16,12 @@
 <h3 align="center">Keep In Touch</h3>
 <p align="center">
     <!-- Twitter -->
-    <a href="https://twitter.com/thenurhusni" target="blank"><img src="https://img.shields.io/twitter/follow/thenurhusni?logo=twitter&style=for-the-badge" alt="thenurhusni" /></a> 
-    </br>
+    <!-- <a href="https://twitter.com/thenurhusni" target="blank"><img src="https://img.shields.io/twitter/follow/thenurhusni?logo=twitter&style=for-the-badge" alt="thenurhusni" /></a> 
+    </br> -->
     <!-- Email and Social Media -->
     <a href="mailto:panjinurhusni@gmail.com"><img src="https://img.shields.io/badge/panjinurhusni@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/panjiahmadn/"><img src="https://img.shields.io/badge/Panji Ahmad Nurhusni-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://t.me/thenurhusni"><img src="https://img.shields.io/badge/thenurhusni-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://twitter.com/thenurhusni"><img src="https://img.shields.io/badge/thenurhusni-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
     </br>
 </p>
 
@@ -39,7 +39,7 @@
     <!-- <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"> -->
     </br>
     <!-- Database -->
-    <img src="https://img.shields.io/badge/PostgreSQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
 </br>
