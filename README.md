@@ -21,7 +21,7 @@
     </br> -->
     <!-- Email and Social Media -->
     <a href="mailto:panjinurhusni@gmail.com"><img src="https://img.shields.io/badge/panjinurhusni@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/panjiahmadn/"><img src="https://img.shields.io/badge/Panji Ahmad Nurhusni-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/nurhusni/"><img src="https://img.shields.io/badge/Panji Ahmad Nurhusni-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://twitter.com/thenurhusni"><img src="https://img.shields.io/badge/thenurhusni-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
     </br>
 </p>
